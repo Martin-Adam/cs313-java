@@ -46,6 +46,7 @@
                 <li data-target="#screenshots" data-slide-to="0" class="active"></li>
                 <li data-target="#screenshots" data-slide-to="1"></li>
                 <li data-target="#screenshots" data-slide-to="2"></li>
+                <li data-target="#screenshots" data-slide-to="3"></li>
             </ol>
 
             <!-- Wrapper for slides -->
@@ -60,6 +61,9 @@
 
                 <div class="item">
                     <img src="newGoal_jsp.jpg" alt="newGoal_jsp" width="540" height="300">
+                </div>
+                <div class="item">
+                    <img src="posted.jpg" alt="posted" width="540" height="300">
                 </div>
             </div>
 
