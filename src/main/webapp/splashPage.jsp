@@ -55,7 +55,7 @@
                 </div>
 
                 <div class="item">
-                    <img src="welcome_jsp.jpg" alt="welcome_jsp" width="540" height="300">
+                    <img src="Capture.PNG" alt="Capture" width="540" height="300">
                 </div>
 
                 <div class="item">
